@@ -119,8 +119,7 @@ params:
     enable: true
     intro: "Hi, my name is"
     title: "Sonali."
-    subtitle: "I build things for the web"
-    content: "A passionate web app developer. I tend to make use of modern web technologies to build websites that looks great, feels fantastic, and functions correctly."
+    content: "Hi there! I'm Sonali Desarda, a passionate Software Engineer who thrives on solving complex problems and transforming challenges into opportunities. In my free time, I enjoy cooking, crafting, and exploring new tourist places. Currently residing in Santa Clara, CA."
     image: /Profile/IMG_4995.jpg
     bottomImage:
       enable: false
